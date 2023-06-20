@@ -1,6 +1,6 @@
 # linear-cryptanalysis-attack
 
-Esta aplicação realiza um ataque de criptoanálise linear a partir de uma S-BOX 256, por meio de textos planos e cifrados conhecidos calculamos a chave privada.
+Esta aplicação realiza um ataque de criptoanálise linear a partir de uma S-BOX 256 bits, por meio de textos planos e cifrados conhecidos calculamos a chave privada. Trabalho realizado para a disciplina de Criptografia do curso de Engenharia de Computação.
 
 
 A aplicação gera dois arquivos de saída: 
